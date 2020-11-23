@@ -14,3 +14,19 @@ C:\Users\Bitter\source\repos\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.csproj.Cor
 C:\Users\Bitter\source\repos\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.csproj.CopyComplete
 C:\Users\Bitter\source\repos\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.exe
 C:\Users\Bitter\source\repos\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\TP3.exe.config
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\TP3.exe
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\Archivos.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\Clases Abstractas.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\Clases Instanciables.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\Excepciones.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\Archivos.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\Clases Instanciables.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\bin\Debug\Excepciones.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.csproj.CopyComplete
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.exe
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\TP3\obj\Debug\TP3.pdb

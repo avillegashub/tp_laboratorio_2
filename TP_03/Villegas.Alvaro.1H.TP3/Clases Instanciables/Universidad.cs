@@ -9,7 +9,7 @@ using Archivos;
 namespace Clases_Instanciables
 {
     [Serializable]
-    public class Universidad : Xml<Universidad>
+    public class Universidad 
     {
 
         List<Alumno> alumnos;
@@ -61,7 +61,7 @@ namespace Clases_Instanciables
         /// <exception cref="ArchivosException">description</exception>
         public static bool Guardar(Universidad uni)
         {
-            uni.Guardar("Universidad.xml", uni);
+           Xml<Universidad>.Guardar("Universidad.xml", uni);
             return true;
         }
         /// <summary>
@@ -73,7 +73,7 @@ namespace Clases_Instanciables
         {
             Universidad aux = new Universidad();
             object dos = new object();
-            aux.Leer("Universidad.xml", out aux);
+            //aux.Leer("Universidad.xml", out aux);
             return aux;
         }
         /// <summary>

@@ -1,0 +1,27 @@
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\bin\Debug\Funcionalidades.dll
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\bin\Debug\Funcionalidades.pdb
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\bin\Debug\Entidades.dll
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\bin\Debug\Entidades.pdb
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\obj\Debug\Funcionalidades.csprojAssemblyReference.cache
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\obj\Debug\Funcionalidades.csproj.CoreCompileInputs.cache
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\obj\Debug\Funcionalidades.csproj.CopyComplete
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\obj\Debug\Funcionalidades.dll
+C:\Users\Bitter\Desktop\Parcial Convertido en TP4\Funcionalidades\obj\Debug\Funcionalidades.pdb
+C:\Users\Bitter\Desktop\TP4\Funcionalidades\bin\Debug\Funcionalidades.dll
+C:\Users\Bitter\Desktop\TP4\Funcionalidades\bin\Debug\Funcionalidades.pdb
+C:\Users\Bitter\Desktop\TP4\Funcionalidades\obj\Debug\Funcionalidades.csprojAssemblyReference.cache
+C:\Users\Bitter\Desktop\TP4\Funcionalidades\obj\Debug\Funcionalidades.csproj.CoreCompileInputs.cache
+C:\Users\Bitter\Desktop\TP4\Funcionalidades\obj\Debug\Funcionalidades.dll
+C:\Users\Bitter\Desktop\TP4\Funcionalidades\obj\Debug\Funcionalidades.pdb
+C:\Users\Bitter\Desktop\TP4Testing\Funcionalidades\bin\Debug\Funcionalidades.dll
+C:\Users\Bitter\Desktop\TP4Testing\Funcionalidades\bin\Debug\Funcionalidades.pdb
+C:\Users\Bitter\Desktop\TP4Testing\Funcionalidades\obj\Debug\Funcionalidades.csprojAssemblyReference.cache
+C:\Users\Bitter\Desktop\TP4Testing\Funcionalidades\obj\Debug\Funcionalidades.csproj.CoreCompileInputs.cache
+C:\Users\Bitter\Desktop\TP4Testing\Funcionalidades\obj\Debug\Funcionalidades.dll
+C:\Users\Bitter\Desktop\TP4Testing\Funcionalidades\obj\Debug\Funcionalidades.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_04\Funcionalidades\bin\Debug\Funcionalidades.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_04\Funcionalidades\bin\Debug\Funcionalidades.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_04\Funcionalidades\obj\Debug\Funcionalidades.csprojAssemblyReference.cache
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_04\Funcionalidades\obj\Debug\Funcionalidades.csproj.CoreCompileInputs.cache
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_04\Funcionalidades\obj\Debug\Funcionalidades.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_04\Funcionalidades\obj\Debug\Funcionalidades.pdb

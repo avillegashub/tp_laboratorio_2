@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------
+Fecha: 22/11/2020
+--------------- Cliente
+Dni:          1 Nombre: Aleksandra Apellido:  Zaryanova
+--------------- Productos:
+ID:           4 Nombre: Camisa Infant Annilhilator Precio:  11.450,00 Stock:          1
+
+------------------------------------------------------------------------------
+Fecha: 22/11/2020
+--------------- Cliente
+Dni:          1 Nombre: Aleksandra Apellido:  Zaryanova
+--------------- Productos:
+ID:           4 Nombre: Camisa Infant Annilhilator Precio:  11.450,00 Stock:          1
+
+------------------------------------------------------------------------------
+Fecha: 22/11/2020
+--------------- Cliente
+Dni:          1 Nombre: Aleksandra Apellido:  Zaryanova
+--------------- Productos:
+ID:           5 Nombre: Camisa SexBob-Omb Precio:  11.460,00 Stock:          1
+
+------------------------------------------------------------------------------
+Fecha: 22/11/2020
+--------------- Cliente
+Dni:          1 Nombre: Aleksandra Apellido:  Zaryanova
+--------------- Productos:
+ID:           5 Nombre: Camisa SexBob-Omb Precio:  11.460,00 Stock:          1
+
+------------------------------------------------------------------------------
+Fecha: 23/11/2020
+--------------- Cliente
+Dni:          1 Nombre: Aleksandra Apellido:  Zaryanova
+--------------- Productos:
+ID:           4 Nombre: Camisa Infant Annilhilator Precio:  11.450,00 Stock:          1
+
+------------------------------------------------------------------------------
+Fecha: 23/11/2020
+--------------- Cliente
+Dni:          1 Nombre: Aleksandra Apellido:  Zaryanova
+--------------- Productos:
+ID:           4 Nombre: Camisa Infant Annilhilator Precio:  11.450,00 Stock:          1
+

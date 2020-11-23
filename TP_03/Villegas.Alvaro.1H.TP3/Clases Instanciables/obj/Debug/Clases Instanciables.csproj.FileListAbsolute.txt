@@ -11,3 +11,16 @@ C:\Users\Bitter\source\repos\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Deb
 C:\Users\Bitter\source\repos\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
 C:\Users\Bitter\source\repos\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 C:\Users\Bitter\source\repos\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Bitter\Desktop\tp_laboratorio_2\TP_03\Villegas.Alvaro.1H.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

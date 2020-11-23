@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 namespace Archivos
 {
 
-    public class Xml<T> : IArchivo<T>
+    public class Xml<T> 
     {
         string path = AppDomain.CurrentDomain.BaseDirectory;
         /// <summary>
@@ -21,13 +21,13 @@ namespace Archivos
         /// <param name="datos">Dato a ser guardado</param>
         /// <returns>Retorna true si pudo crear/guardar el Documento</returns>
         /// <exception cref="ArchivosException">description</exception>
-        public bool Guardar(string archivo, T datos)
+        static public bool Guardar(string archivo, T datos)
         {
             try
             {
-                using (XmlTextWriter writer = new XmlTextWriter(path + archivo, System.Text.Encoding.UTF8))
+                using (XmlTextWriter writer = new XmlTextWriter(AppDomain.CurrentDomain.BaseDirectory + archivo, System.Text.Encoding.UTF8))
                 {
-
+                    Type asd = datos.GetType();
                     XmlSerializer ser = new XmlSerializer(datos.GetType());
                     ser.Serialize(writer, datos);
                     return true;
