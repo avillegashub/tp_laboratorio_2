@@ -52,7 +52,8 @@ namespace Entidades
             sb.Append($"CHASIS: {this.chasis}\r\n" );
             sb.Append($"MARCA : {this.marca}\r\n");
             sb.Append($"COLOR : {this.color}\r\n");
-            sb.Append("---------------------");
+            sb.Append("---------------------\r\n");
+            //sb.Append("");
 
             return sb.ToString();
         }

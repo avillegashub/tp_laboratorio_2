@@ -17,13 +17,8 @@ namespace Entidades
         /// <summary>
         /// SUV son 'Grande'
         /// </summary>
-        public override short Tamanio
-        {
-            get
-            {
-                return 2;
-            }
-        }
+        public override ETamanio Tamanio { get { return ETamanio.Grande; } }
+
 
         public override string Mostrar()
         {

@@ -28,13 +28,8 @@ namespace Entidades
         /// <summary>
         /// Sedan son 'Mediano'
         /// </summary>
-        public override short Tamanio
-        {
-            get
-            {
-                return 1;
-            }
-        }
+        public override ETamanio Tamanio { get { return ETamanio.Mediano; } }
+  
 
         public override string Mostrar()
         {
@@ -42,7 +37,7 @@ namespace Entidades
 
             sb.AppendLine("SEDAN");
             sb.AppendLine(this.ToString());
-            sb.AppendLine($"TAMAÑO : {(Vehiculo.ETamanio) this.Tamanio}" );
+            sb.Append($"TAMAÑO : {(Vehiculo.ETamanio) this.Tamanio}" );
             sb.AppendLine("TIPO : " + this.tipo);
             sb.AppendLine("");
             sb.AppendLine("---------------------");

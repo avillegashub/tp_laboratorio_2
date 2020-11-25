@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bridge.cs" />
     <Compile Include="Cliente.cs" />
     <Compile Include="DB.cs" />
     <Compile Include="Establecimiento.cs" />

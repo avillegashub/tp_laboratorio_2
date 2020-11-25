@@ -17,8 +17,8 @@ namespace Entidades
         /// <summary>
         /// Ciclomotor son 'Chico'
         /// </summary>
-        public override short Tamanio { get { return 0; } }
-        
+        public override ETamanio Tamanio { get { return ETamanio.Chico; } }
+
         public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
